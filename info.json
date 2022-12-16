@@ -1,0 +1,9 @@
+{
+  "name": "SE_surge-electric-boiler",
+  "version": "0.1.0",
+  "title": "Surge electric boiler for SE",
+  "author": "Askyras",
+  "factorio_version": "1.1",
+  "dependencies": ["base >= 1.1", "space-exploration >= 0.6.90"],
+  "description": "Adds a version of Space Exploration's electric boiler that uses tertiary power priority, for use in steam batteries."
+}
